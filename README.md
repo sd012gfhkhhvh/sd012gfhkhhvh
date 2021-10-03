@@ -1,10 +1,13 @@
+
+
 # Hello everyone! Here is some sneakpeek about myself 🙂
 
-## ▶️ INTRODUCTION:
+## ▶️ INTRODUCTION:   
+![](https://github.com/sd012gfhkhhvh/sd012gfhkhhvh/blob/main/icons8-rhombus-loader.gif)
 
-- **NAME:** *Soham Das.*
-
-- **CITY:** *Howrah.*
+ **NAME:** *Soham Das.*              
+ 
+ **CITY:** *Howrah.*
 
 <img src="https://img.icons8.com/bubbles/100/000000/kolkata.png"/>
 

@@ -24,6 +24,9 @@
  |3.|COMPETITIVE COADING|
  |4.|ROBOTICS|
  |5.|SPACE SCIENCE|
+ 
+  ![python](https://github.com/sd012gfhkhhvh/sd012gfhkhhvh/blob/main/icons8-python.gif)
+
 
  <img src="https://img.icons8.com/ios-filled/50/000000/source-code.png"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> 
  <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> <img src="https://img.icons8.com/nolan/64/react-native.png"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
@@ -38,6 +41,8 @@
 
   ## ▶️ LINKEDIN ID:
 
-  [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/soham-das-15ab07174/)
+   [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/soham-das-15ab07174/)
 
   click 👆
+  
+ 

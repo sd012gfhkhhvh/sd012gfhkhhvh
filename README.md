@@ -39,7 +39,8 @@ Welcome to my house :japanese_castle:
 ---
 
 ### 💻:Github Achivements
-<img align="right" src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="275" />
+<img align="right" src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="275" width="300" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sd012gfhkhhvh&label=Profile%20views&color=0e75b6&style=flat" alt="sd012gfhkhhvh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sd012gfhkhhvh" alt="sd012gfhkhhvh" /></a> </p>

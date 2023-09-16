@@ -28,13 +28,17 @@ Welcome to my house :japanese_castle:
 
 ---
 
-### Now Playing on Spotify <img src="https://github.com/iampavangandhi/iampavangandhi/blob/master/gifs/bars.gif" width="200px">
-[![Spotify](https://novatorem.sachinchaturvedi93.vercel.app/api/spotify)](https://open.spotify.com/user/flipcase93)
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+
 
 ---
 
-### 💻:keyboard: Languages and Tools 
-
+### 💻:Github Achivements
+<img align="right" src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="275" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sd012gfhkhhvh&label=Profile%20views&color=0e75b6&style=flat" alt="sd012gfhkhhvh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sd012gfhkhhvh" alt="sd012gfhkhhvh" /></a> </p>

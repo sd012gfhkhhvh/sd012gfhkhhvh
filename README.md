@@ -98,14 +98,15 @@ Welcome to my relm :japanese_castle:
 </h2>
   
 <p align="center">
-  
+ 
 <img src="https://github-readme-stats.vercel.app/api?username=sd012gfhkhhvh&count_private=true&show_icons=true&theme=radical&include_all_commits=true">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sohamdas&layout=compact&theme=dracula" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sd012gfhkhhvh&theme=vision-friendly-dark" alt="sd012gfhkhhvh"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sd012gfhkhhvh&layout=compact&theme=react&count_private=false" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sd012gfhkhhvh&layout=compact&theme=react&count_private=false" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sd012gfhkhhvh&theme=vision-friendly-dark" alt="sd012gfhkhhvh"/>
+  ![Soham's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@sohamdas&layout=compact&theme=radical)
+
 
 </p>
 

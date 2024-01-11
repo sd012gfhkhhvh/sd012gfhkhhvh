@@ -15,6 +15,7 @@
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sd012gfhkhhvh&label=Profile%20views&color=0e75b6&style=flat" alt="apu52" /> </p>
 
 <div align="center"> 
   
